@@ -1,0 +1,7 @@
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\bin\Debug\STATEBANK  OF INDIA.exe.config
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\bin\Debug\STATEBANK  OF INDIA.exe
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\bin\Debug\STATEBANK  OF INDIA.pdb
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\obj\Debug\STATEBANK  OF INDIA.csproj.AssemblyReference.cache
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\obj\Debug\STATEBANK  OF INDIA.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\obj\Debug\STATEBANK  OF INDIA.exe
+C:\Users\Naresh\source\repos\STATEBANK  OF INDIA\STATEBANK  OF INDIA\obj\Debug\STATEBANK  OF INDIA.pdb
