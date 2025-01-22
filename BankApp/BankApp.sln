@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp", "BankApp.csproj", "{CBD03F12-DC01-4336-9923-138B5E54CD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depositdll", "..\Depositdll\Depositdll.csproj", "{60C1C7F5-5105-429E-8976-236D1D6B977F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Withdrawldl", "..\Withdrawldl\Withdrawldl.csproj", "{EDC79963-AF3B-47B5-8173-CD195DA1F1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD03F12-DC01-4336-9923-138B5E54CD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD03F12-DC01-4336-9923-138B5E54CD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD03F12-DC01-4336-9923-138B5E54CD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD03F12-DC01-4336-9923-138B5E54CD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C1C7F5-5105-429E-8976-236D1D6B977F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C1C7F5-5105-429E-8976-236D1D6B977F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C1C7F5-5105-429E-8976-236D1D6B977F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C1C7F5-5105-429E-8976-236D1D6B977F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC79963-AF3B-47B5-8173-CD195DA1F1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC79963-AF3B-47B5-8173-CD195DA1F1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC79963-AF3B-47B5-8173-CD195DA1F1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC79963-AF3B-47B5-8173-CD195DA1F1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

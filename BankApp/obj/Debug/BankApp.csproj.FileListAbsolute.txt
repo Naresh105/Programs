@@ -1,0 +1,12 @@
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\BankApp.exe
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\BankApp.pdb
+C:\Users\Naresh\source\repos\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\Naresh\source\repos\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\BankApp\obj\Debug\BankApp.exe
+C:\Users\Naresh\source\repos\BankApp\obj\Debug\BankApp.pdb
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\Depositdll.dll
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\Depositdll.pdb
+C:\Users\Naresh\source\repos\BankApp\obj\Debug\BankApp.csproj.Up2Date
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\Withdrawldl.dll
+C:\Users\Naresh\source\repos\BankApp\bin\Debug\Withdrawldl.pdb
